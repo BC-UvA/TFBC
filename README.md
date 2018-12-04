@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## About TFBC
+The "Theoretical Foundations of Brain & Cognition" journal club meets every first Friday of the month from 16.00-17.00 (and we'll go for drinks at CREA afterwards)! 
 
-You can use the [editor on GitHub](https://github.com/BC-UvA/TFBC/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Attending the TFBC journal club
+Something about signing up.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## List of discussed papers
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BC-UvA/TFBC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+* Jonas, E., & Kording, K. P. (2017). Could a neuroscientist understand a microprocessor?. PLoS computational biology, 13(1), e1005268 (presented by Jolien)
+* Yarkoni, T., & Westfall, J. (2017). Choosing prediction over explanation in psychology: Lessons from machine learning. *Perspectives on Psychological Science, 12*(6), 1100-1122 (presented by Lukas)
