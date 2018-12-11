@@ -2,7 +2,7 @@
 The "Theoretical Foundations of Brain & Cognition" journal club gets together once a month to discuss a particular theoretical article in the fields of cognitive (neuro)science and psychology. We are located at the University of Amsterdam (department of Psychology) and we meet every first Friday of the month from 16.00-17.00! 
 
 ## Signing up for the TFBC mailing list
-We use a Google group to keep people updated about the journal club meetings. You can sign up [here](https://groups.google.com/forum/#!forum/tfbc/join).
+We use a [Google group](https://groups.google.com/forum/#!forum/tfbc) to keep people updated about the journal club meetings. You can sign up [here](https://groups.google.com/forum/#!forum/tfbc/join).
 
 ## List of discussed papers
 * de-Wit, L., Alexander, D., Ekroll, V., & Wagemans, J. (2016). [Is neuroimaging measuring information in the brain?](https://link.springer.com/article/10.3758/s13423-016-1002-0) *Psychonomic bulletin & review, 23*(5), 1415-1428 (presented by Lola)
