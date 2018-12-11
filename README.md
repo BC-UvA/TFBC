@@ -1,6 +1,13 @@
 ## About TFBC
 The "Theoretical Foundations of Brain & Cognition" journal club gets together once a month to discuss a particular theoretical article in the fields of cognitive (neuro)science and psychology. We are located at the University of Amsterdam (department of Psychology) and we meet every first Friday of the month from 16.00-17.00! 
 
+## Upcoming meeting(s)
+
+| **Date**    | **Time**    | **Article**                                           | **Presenter** | **Room** |
+|-------------|-------------|-------------------------------------------------------|-----------|------|
+| 21 Dec 2018 | 16.00-17.00 | [Eisenberg et al. (2018)](https://psyarxiv.com/fvqej/) | Jolien    | TBA  |
+
+
 ## Signing up for the TFBC mailing list
 We use a [Google group](https://groups.google.com/forum/#!forum/tfbc) to keep people updated about the journal club meetings. You can sign up [here](https://groups.google.com/forum/#!forum/tfbc/join).
 
