@@ -5,7 +5,6 @@ The "Theoretical Foundations of Brain & Cognition" journal club gets together on
 
 | **Date**    | **Time**    | **Article**                                           | **Presenter** | **Room** |
 |-------------|-------------|-------------------------------------------------------|-----------|------|
-| 7 June 2019 | 16.00-17.00 | [Doerig et al. (2019)](https://www.sciencedirect.com/science/article/pii/S105381001830521X) | Yair + Victor | TBA |
 | 12 April 2019 | 16.00-17.00 | TBA | Yair Pinto | TBA |
 | 1 Mar 2019 | 16.00-17.00 | [Cichy & Kaiser (2019)]( https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30034-8) | Lynn Soerensen | TBA  
 | 1 Feb 2019 | 16.00-17.00 | [Niiniluoto (1998)](https://www.journals.uchicago.edu/doi/abs/10.1086/392744) | Steven S. | G S.05  |
