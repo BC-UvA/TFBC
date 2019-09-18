@@ -24,3 +24,7 @@ We use a [Google group](https://groups.google.com/forum/#!forum/tfbc) to keep pe
 * Barrett, L. F. (2009). [The future of psychology: Connecting mind to brain](http://journals.sagepub.com/doi/abs/10.1111/j.1745-6924.2009.01134.x). *Perspectives on psychological science, 4*(4), 326-339 (presented by Steven S.).
 * Jonas, E., & Kording, K. P. (2017). [Could a neuroscientist understand a microprocessor?](http://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005268&utm_content=buffer1a0de&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer) *PLoS computational biology, 13*(1), e1005268 (presented by Jolien).
 * Yarkoni, T., & Westfall, J. (2017). [Choosing prediction over explanation in psychology: Lessons from machine learning](http://journals.sagepub.com/doi/abs/10.1177/1745691617693393). *Perspectives on Psychological Science, 12*(6), 1100-1122 (presented by Lukas).
+
+## Computational cognitive (neuro)science symposium
+The initiative for this journal club arose at the "computational cognitive (neuro)science" symposium organized by Jolien, Lola, Lukas, and Steven (Scholte) in February 2018. You can find the presentation slides below:
+- 
