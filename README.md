@@ -27,4 +27,5 @@ We use a [Google group](https://groups.google.com/forum/#!forum/tfbc) to keep pe
 
 ## Computational cognitive (neuro)science symposium
 The initiative for this journal club arose at the "computational cognitive (neuro)science" symposium organized by Jolien, Lola, Lukas, and Steven (Scholte) in February 2018. You can find the presentation slides below:
-- 
+- [Explanations in cognitive neuroscience](PresentationJolien.pdf) (by Jolien Francken)
+- [Flavors of modelling in cognitive neuroscience](PresentationLukas.pdf) (by Lukas Snoek)
