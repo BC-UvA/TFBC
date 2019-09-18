@@ -9,11 +9,6 @@ The "Theoretical Foundations of Brain & Cognition" journal club gets together on
 | 13 Dec 2019 | 16.00-17.00 | TBA | Joe Bathelt | TBA |
 | 8 Nov 2019 | 16.00-17.00 | TBA | Lola | TBA |
 | 11 Oct 2019 | 16.00-17.00 | [Meehl (1967)](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/288135) | Lukas | TBA |
-| 13 Sep 2019 | 16.00-17.00 | [Carlson et al. (2018)](https://www.sciencedirect.com/science/article/pii/S1053811917306663?via=ihub) | Jolien | G3.01 |
-| 12 Apr 2019 | 16.00-17.00 | [Bergner (2018)](https://psycnet.apa.org/record/2018-13333-001) | Yair Pinto | S.01 |
-| 1 Mar 2019 | 16.00-17.00 | [Cichy & Kaiser (2019)](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30034-8) | Lynn Soerensen | TBA |
-| 1 Feb 2019 | 16.00-17.00 | [Niiniluoto (1998)](https://www.journals.uchicago.edu/doi/abs/10.1086/392744) | Steven S. | G S.05  |
-| 21 Dec 2018 | 16.00-17.00 | [Eisenberg et al. (2018)](https://psyarxiv.com/fvqej/) | Jolien    | G S.05  |
 
 ## Signing up for the TFBC mailing list
 We use a [Google group](https://groups.google.com/forum/#!forum/tfbc) to keep people updated about the journal club meetings. You can sign up [here](https://groups.google.com/forum/#!forum/tfbc/join).
