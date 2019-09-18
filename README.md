@@ -1,7 +1,7 @@
 ## About TFBC
 The "Theoretical Foundations of Brain & Cognition" journal club gets together once a month to discuss a particular theoretical article in the fields of cognitive (neuro)science and psychology. We are located at the University of Amsterdam (department of Psychology) and we meet every second Friday of the month from 16.00-17.00! 
 
-## Upcoming meeting(s)
+## Upcoming meetings
 
 | **Date**    | **Time**    | **Article**                                           | **Presenter** | **Room** |
 |-------------|-------------|-------------------------------------------------------|-----------|------|
