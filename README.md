@@ -8,7 +8,7 @@ The "Theoretical Foundations of Brain & Cognition" journal club gets together on
 | 14 Feb 2020 | 16.00-17.00 | TBA | Lola | TBA |
 | 10 Jan 2020 | 16.00-17.00 | TBA | Steven S. | TBA |
 | 13 Dec 2019 | 16.00-17.00 | TBA | Joe Bathelt | TBA |
-| 8 Nov 2019 | 16.00-17.00 | TBA | Evert Boonstra | TBA |
+| 8 Nov 2019 | 16.00-17.00 | [Boonstra & Slagter](https://www.frontiersin.org/articles/10.3389/fnsys.2019.00042/full) | Evert Boonstra | TBA |
 | 11 Oct 2019 | 16.00-17.00 | [Meehl (1967)](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/288135) | Lukas | TBA |
 
 ## Signing up for the TFBC mailing list
