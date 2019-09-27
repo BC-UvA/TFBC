@@ -5,6 +5,7 @@ The "Theoretical Foundations of Brain & Cognition" journal club gets together on
 
 | **Date**    | **Time**    | **Article**                                           | **Presenter** | **Room** |
 |-------------|-------------|-------------------------------------------------------|-----------|------|
+| 13 Mar 2020 | 16.00-17.00 | TBA | Jessica | TBA |
 | 14 Feb 2020 | 16.00-17.00 | TBA | Lola | TBA |
 | 10 Jan 2020 | 16.00-17.00 | TBA | Steven S. | TBA |
 | 13 Dec 2019 | 16.00-17.00 | TBA | Joe Bathelt | TBA |
