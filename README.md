@@ -5,12 +5,12 @@ The "Theoretical Foundations of Brain & Cognition" journal club gets together on
 
 | **Date**    | **Time**    | **Article**                                           | **Presenter** | **Room** |
 |-------------|-------------|-------------------------------------------------------|-----------|------|
-| 13 Mar 2020 | 16.00-17.00 | TBA | Jessica | TBA |
-| 14 Feb 2020 | 16.00-17.00 | TBA | Lola | TBA |
-| 10 Jan 2020 | 16.00-17.00 | TBA | Steven S. | TBA |
-| 13 Dec 2019 | 16.00-17.00 | TBA | Joe Bathelt | TBA |
-| 8 Nov 2019 | 16.00-17.00 | [Boonstra & Slagter](https://www.frontiersin.org/articles/10.3389/fnsys.2019.00042/full) | Evert Boonstra | TBA |
-| 11 Oct 2019 | 16.00-17.00 | [Meehl (1967)](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/288135) | Lukas | TBA |
+| 13 Mar 2020 | 16.00-17.00 | TBA | Jessica | G S.11 |
+| 14 Feb 2020 | 16.00-17.00 | TBA | Lola | G S.11 |
+| 10 Jan 2020 | 16.00-17.00 | TBA | Steven S. | G S.11 |
+| 13 Dec 2019 | 16.00-17.00 | TBA | Joe Bathelt | G S.11 |
+| 8 Nov 2019 | 16.00-17.00 | [Boonstra & Slagter](https://www.frontiersin.org/articles/10.3389/fnsys.2019.00042/full) | Evert Boonstra | G S.11 |
+| 11 Oct 2019 | 16.00-17.00 | [Meehl (1967)](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/288135) | Lukas | G S.11 |
 
 ## Signing up for the TFBC mailing list
 We use a [Google group](https://groups.google.com/forum/#!forum/tfbc) to keep people updated about the journal club meetings. You can sign up [here](https://groups.google.com/forum/#!forum/tfbc/join).
