@@ -10,12 +10,12 @@ The "Theoretical Foundations of Brain & Cognition" journal club gets together on
 | 10 Jan 2020 | 16.00-17.00 | TBA | Steven Scholte | G S.02 |
 | 13 Dec 2019 | 16.00-17.00 | TBA | Joe Bathelt | G S.01 |
 | 8 Nov 2019 | 16.00-17.00 | [Boonstra & Slagter](https://www.frontiersin.org/articles/10.3389/fnsys.2019.00042/full) | Evert Boonstra | G S.02 |
-| 11 Oct 2019 | 16.00-17.00 | [Meehl (1967)](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/288135) | Lukas Snoek | G S.11 |
 
 ## Signing up for the TFBC mailing list
 We use a [Google group](https://groups.google.com/forum/#!forum/tfbc) to keep people updated about the journal club meetings. You can sign up [here](https://groups.google.com/forum/#!forum/tfbc/join).
 
 ## List of previously discussed papers
+* Meehl, P. (1967). [Theory-Testing in Psychology and Physics: A Methodological Paradox](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/288135). Philosophy of science, 34(2), 103-115 (presented by Lukas).
 * Carlson, T., Goddard, E., Kaplan, D. M., Klein, C., & Ritchie, J. B. (2018). [Ghosts in machine learning for cognitive neuroscience: Moving from data to theory](https://www.sciencedirect.com/science/article/pii/S1053811917306663?via=ihub). NeuroImage, 180, 88-100 (presented by Jolien).
 * Bergner, R. M. (2018). [The case against the case against free will](https://psycnet.apa.org/record/2018-13333-001). Journal of Theoretical and Philosophical Psychology, 38(3), 123 (presented by Yair).
 * Cichy, R. M., & Kaiser, D. (2019). [Deep neural networks as scientific models](https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(19)30034-8). Trends in cognitive sciences (presented by Lynn).
