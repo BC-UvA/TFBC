@@ -5,11 +5,11 @@ The "Theoretical Foundations of Brain & Cognition" journal club gets together on
 
 | **Date**    | **Time**    | **Article**                                           | **Presenter** | **Room** |
 |-------------|-------------|-------------------------------------------------------|-----------|------|
-| 13 Mar 2020 | 16.00-17.00 | TBA | Jessica | G S.11 |
-| 14 Feb 2020 | 16.00-17.00 | TBA | Lola | G S.11 |
-| 10 Jan 2020 | 16.00-17.00 | TBA | Steven S. | G S.11 |
-| 13 Dec 2019 | 16.00-17.00 | TBA | Joe Bathelt | G S.11 |
-| 8 Nov 2019 | 16.00-17.00 | [Boonstra & Slagter](https://www.frontiersin.org/articles/10.3389/fnsys.2019.00042/full) | Evert Boonstra | G S.11 |
+| 13 Mar 2020 | 16.00-17.00 | TBA | Jessica | G S.34 |
+| 14 Feb 2020 | 16.00-17.00 | TBA | Lola | G S.02 |
+| 10 Jan 2020 | 16.00-17.00 | TBA | Steven S. | G S.02 |
+| 13 Dec 2019 | 16.00-17.00 | TBA | Joe Bathelt | G S.01 |
+| 8 Nov 2019 | 16.00-17.00 | [Boonstra & Slagter](https://www.frontiersin.org/articles/10.3389/fnsys.2019.00042/full) | Evert Boonstra | G S.02 |
 | 11 Oct 2019 | 16.00-17.00 | [Meehl (1967)](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/288135) | Lukas | G S.11 |
 
 ## Signing up for the TFBC mailing list
