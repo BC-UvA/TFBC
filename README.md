@@ -6,14 +6,13 @@ The "Theoretical Foundations of Brain & Cognition" journal club gets together on
 | **Date**    | **Time**    | **Article**                                           | **Presenter** | **Room** |
 |-------------|-------------|-------------------------------------------------------|-----------|------|
 | 13 Mar 2020 | 16.00-17.00 | TBA | Jessica Loke | G S.34 |
-| 14 Feb 2020 | 16.00-17.00 | TBA | Lola Beerendonk | G S.02 |
-| 10 Jan 2020 | 16.00-17.00 | TBA | Steven Scholte | G S.02 |
-| 13 Dec 2019 | 16.00-17.00 | [Yarkoni (2019)](https://psyarxiv.com/jqw35) | Joe Bathelt | G S.01 |
+| 28 Feb 2020 | 16.00-17.00 | TBA | Steven Scholte | TBA |
 
 ## Signing up for the TFBC mailing list
 We use a [Google group](https://groups.google.com/forum/#!forum/tfbc) to keep people updated about the journal club meetings. You can sign up [here](https://groups.google.com/forum/#!forum/tfbc/join).
 
 ## List of previously discussed papers
+* Yarkoni, T. (2019). [The Generalizability Crisis](https://psyarxiv.com/jqw35) (presented by Joe Bathelt).
 * Boonstra & Slagter. (2019). [The Dialectics of Free Energy Minimization](https://www.frontiersin.org/articles/10.3389/fnsys.2019.00042/full). Frontiers in systems neuroscience, 13, 42 (presented by Evert himself).
 * Meehl, P. (1967). [Theory-Testing in Psychology and Physics: A Methodological Paradox](https://www.journals.uchicago.edu/doi/pdfplus/10.1086/288135). Philosophy of science, 34(2), 103-115 (presented by Lukas).
 * Carlson, T., Goddard, E., Kaplan, D. M., Klein, C., & Ritchie, J. B. (2018). [Ghosts in machine learning for cognitive neuroscience: Moving from data to theory](https://www.sciencedirect.com/science/article/pii/S1053811917306663?via=ihub). NeuroImage, 180, 88-100 (presented by Jolien).
